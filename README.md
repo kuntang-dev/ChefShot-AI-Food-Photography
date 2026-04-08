@@ -7,23 +7,30 @@
 
 ## 🚀 Key Features
 
-* **3D AI Relighting:** Rescue poorly lit photos with cinematic studio lighting and realistic volumetric shadows.
-* **Omni-Channel Engine:** Automatically format images for **UberEats**, **DoorDash**, **Instagram**, and **TikTok**.
-* **AI Outpainting:** Expand backgrounds seamlessly without cropping out your dish.
-* **Compliance Checker:** Ensure 99% approval rates on delivery platforms by meeting official visual guidelines.
+* **3D AI Relighting:** Rescue poorly lit photos with cinematic studio lighting and realistic volumetric shadows. [Explore Relighting](https://chefshot.art/features/relighting)
+* **Template Library:** Access hundreds of conversion-optimized food photography templates. [Browse Templates](https://chefshot.art/features/templates)
+* **Omni-Channel Engine:** Automatically format images for **UberEats**, **DoorDash**, and **Instagram**. [Learn More](https://chefshot.art/features/platform-ready)
 
-## 🔗 Official Links
+## 🏢 Solutions by Industry
 
-* **Official Website:** [https://chefshot.art](https://chefshot.art)
+Tailored AI photography workflows for every food-related business:
+
+* **For Restaurants:** Professional menus in minutes. [View Solution](https://chefshot.art/solutions/restaurants)
+* **For Ghost Kitchens:** High-volume photo production. [View Solution](https://chefshot.art/solutions/ghost-kitchens)
+* **For Food Bloggers:** Aesthetic content for social media. [View Solution](https://chefshot.art/solutions/food-bloggers)
+* **For Food Enterprise:** Scalable API and enterprise tools. [View Solution](https://chefshot.art/solutions/food-enterprise)
+
+## 🔗 Quick Links
+
+* **Official Homepage:** [https://chefshot.art](https://chefshot.art)
 * **Pricing & Plans:** [https://chefshot.art/pricing](https://chefshot.art/pricing)
-* **For Restaurants:** [https://chefshot.art/solutions/restaurants](https://chefshot.art/solutions/restaurants)
-* **For Ghost Kitchens:** [https://chefshot.art/solutions/ghost-kitchens](https://chefshot.art/solutions/ghost-kitchens)
+* **Terms of Service:** [https://chefshot.art/terms](https://chefshot.art/terms)
 
-## 🛠️ Solutions for Every Platform
+## 🛠️ Features Breakdown
 
-* **Instagram Grid Consistency:** [Explore Templates](https://chefshot.art/features/templates)
-* **UberEats & DoorDash Ready:** [Platform Optimization](https://chefshot.art/features/platform-ready)
-* **AI Lighting Mastery:** [Relighting Tech](https://chefshot.art/features/relighting)
+- [**Templates**](https://chefshot.art/features/templates): Professional presets for all dish types.
+- [**AI Relighting**](https://chefshot.art/features/relighting): Advanced 3D lighting simulation.
+- [**Platform Ready**](https://chefshot.art/features/platform-ready): Multi-platform aspect ratio and style optimization.
 
 ## 📬 Contact & Feedback
 
